@@ -6,7 +6,7 @@
 
 I'm [Abdulrahman Tamim](https://www.linkedin.com/in/abdulrahman-tamim-a7149a29b/), a cybersecurity engineering student with a strong interest in red teaming, tool development, and low-level system internals.
 
-Most of my time goes into exploring Active Directory, cloud security, and binary exploitation—often through hands-on labs, CTFs, or by building tools with Python, C, and experimenting with Rust. I like understanding how things break, why they break, and how to defend against those breakpoints.
+Most of my time goes into exploring Active Directory, cloud security, and Malware analysis—often through hands-on labs, CTFs, or by building tools with Python, C, and experimenting with Rust. I like understanding how things break, why they break, and how to defend against those breakpoints.
 
 Outside of tech, I enjoy diving into philosophy, math, and politics—because thinking critically shouldn't just stop at the terminal.
 
