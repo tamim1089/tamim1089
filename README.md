@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-[![HTB Academy Transcript](https://img.shields.io/badge/View_HTB_Transcript-PDF-green?logo=hackthebox&style=flat-square)](https://hex.infy.uk/HTB%20Academy%20Student%20Transcript.pdf)
+[![HTB Academy Transcript](https://img.shields.io/badge/View_HTB_Transcript-PDF-green?logo=hackthebox&style=flat-square)](https://drive.google.com/file/d/1xl08H84gTpJtDPMM4rZPH1ZL6R2A_T_L/view?usp=sharing)
 
 ---
 
